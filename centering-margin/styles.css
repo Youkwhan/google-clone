@@ -1,0 +1,13 @@
+/*
+To center seomthing it needs:
+   1. display: block
+   2. must have a width
+   3. margin left/right: auto
+      (auto == take up all the available space)
+*/
+img {
+	display: block;
+	width: 200px;
+   margin-left: auto;
+   margin-right: auto;
+}
