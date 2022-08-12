@@ -1,3 +1,13 @@
 .card {
-   color: #222222;
+	color: #222222;
+   background-color: lightgray;
+   width: 300px;
+   margin-top: 50px;
+   margin-left: auto;
+   margin-right: auto;
+
+   /*
+   While margin adds spacing inbetween the outside of our div
+   padding adds spacing inbetween our text and inside of our div container (background)*/
+   padding: 20px
 }
