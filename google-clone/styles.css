@@ -1,5 +1,7 @@
 .main {
 	margin-top: 100px;
+	/*All inline blocks are centered
+	text-align: center;*/
 }
 .logo-img {
 	display: block;
@@ -26,10 +28,7 @@
 }
 
 .btn {
-	/*btn has an implicit width and display: inblock, but to center we need our 3 conditions*/
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+
 	margin-top: 30px;
 	background: #dfe1e5;
 	border: none;

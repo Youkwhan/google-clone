@@ -1,4 +1,5 @@
 button {
+   /*btn has an implicit width and display: inblock, but to center we need our 3 conditions*/
 	color: #0f1419;
 	border: 1px solid #cfd9de;
    border-radius: 20px;
