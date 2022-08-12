@@ -6,6 +6,9 @@
    margin-left: auto;
    margin-right: auto;
 
+   border: 8px solid red;
+   border-radius: 30px;
+
    /*
    While margin adds spacing inbetween the outside of our div
    padding adds spacing inbetween our text and inside of our div container (background)*/
