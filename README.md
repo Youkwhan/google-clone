@@ -1,3 +1,3 @@
 # google search
 
-This is me LEARNING HTML AND CSS 
+LEARNING SOME HTML AND CSS 
